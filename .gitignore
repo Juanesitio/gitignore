@@ -1,8 +1,10 @@
 # Ignore a signel file
-new-file.txt
+another-file.txt
 
 # Ignore all files in the bin directory
 bin/
 
-# Ignore all .tmp files
+# Ignore all .tmp files using * wildcard
 *.tmp
+
+
